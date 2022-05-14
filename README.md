@@ -4,9 +4,9 @@ Simple card app created with Typescript Stack
 
 # Features
 
--Mutiple Routes for each action.
--Local Backend Database
--You can View, Create, Update, Delete simple cards.
+- Mutiple Routes for each action.
+- Local Backend Database
+- You can View, Create, Update, Delete simple cards.
 
 # Stack
 
