@@ -1,0 +1,4 @@
+/backend/node_modules
+/backend/prisma/migrations/
+/backend/prisma/database.db
+/frontend/node_modules
